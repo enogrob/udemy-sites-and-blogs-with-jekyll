@@ -18,15 +18,15 @@ Learn everything you need to about the subject of this `Udemy` project.
 Section: 1
 0 / 2
 Introduction
-[ ] 1. Introduction 2:43
-[ ] 2. Benefits of a static page and static website generators 0:00
+[x] 1. Introduction 2:43
+[x] 2. Benefits of a static page and static website generators 0:00
 
 Section: 2
 0 / 3
 Jekyll basics - important first steps
-[ ] 3. Install Jekyll - update to version 3.3.0 2:06
-[ ] 4. Create new project with Jekyll - updated 2:47
-[ ] 5. Jekyll templates 5:33
+[x] 3. Install Jekyll - update to version 3.3.0 2:06
+[x] 4. Create new project with Jekyll - updated 2:47
+[x] 5. Jekyll templates 5:33
 
 Section: 3
 0 / 5
