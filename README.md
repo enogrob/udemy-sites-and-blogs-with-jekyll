@@ -31,7 +31,7 @@ Jekyll basics - important first steps
 Section: 3
 0 / 5
 Create a page with Jekyll
-[ ] 6. How to create default layout 6:53
+[x] 6. How to create default layout 6:53
 [ ] 7. DRY principles 6:35
 [ ] 8. Jekyll configuration 4:14
 [ ] 9. Jekyll in-depth 5:39
