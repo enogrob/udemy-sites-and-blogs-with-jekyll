@@ -35,7 +35,7 @@ Create a page with Jekyll
 [x] 7. DRY principles 6:35
 [x] 8. Jekyll configuration 4:14
 [x] 9. Jekyll in-depth 5:39
-[ ] 10. How to create a menu 5:19
+[x] 10. How to create a menu 5:19
 
 Section: 4
 0 / 6
