@@ -40,9 +40,9 @@ Create a page with Jekyll
 Section: 4
 0 / 6
 Create a blog with Jekyll
-[ ] 11. Create posts for the blog 2:13
-[ ] 12. Add content to posts (part 1) 6:07
-[ ] 13. Add content to posts (part 2) 6:25
+[x] 11. Create posts for the blog 2:13
+[x] 12. Add content to posts (part 1) 6:07
+[x] 13. Add content to posts (part 2) 6:25
 [ ] 14. Add widgets to post 5:35
 [ ] 15. The post loop 3:58
 [ ] 16. How to set default values 4:38
