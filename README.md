@@ -31,19 +31,19 @@ Jekyll basics - important first steps
 Section: 3
 0 / 5
 Create a page with Jekyll
-[x] 6. How to create default layout 6:53
-[x] 7. DRY principles 6:35
-[x] 8. Jekyll configuration 4:14
-[x] 9. Jekyll in-depth 5:39
-[x] 10. How to create a menu 5:19
+[ ] 6. How to create default layout 6:53
+[ ] 7. DRY principles 6:35
+[ ] 8. Jekyll configuration 4:14
+[ ] 9. Jekyll in-depth 5:39
+[ ] 10. How to create a menu 5:19
 
 Section: 4
 0 / 6
 Create a blog with Jekyll
-[x] 11. Create posts for the blog 2:13
-[x] 12. Add content to posts (part 1) 6:07
-[x] 13. Add content to posts (part 2) 6:25
-[ ] 14. Add widgets to post 5:35
+[ ] 11. Create posts for the blog 2:13
+[ ] 12. Add content to posts (part 1) 6:07
+[ ] 13. Add content to posts (part 2) 6:25
+[x] 14. Add widgets to post 5:35
 [ ] 15. The post loop 3:58
 [ ] 16. How to set default values 4:38
 
